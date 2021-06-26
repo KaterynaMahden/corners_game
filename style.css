@@ -1,0 +1,45 @@
+.main_block {
+    width: 560px;
+    height: 560px;
+    margin: 30px auto;
+    border: 10px solid #6c4263;
+}
+
+.block {
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+
+.light_pink {
+    background-color: #fefafa;
+}
+
+.dark_pink {
+    background-color: #d46a92;
+}
+
+.dark_chess {
+    width: 70px;
+    height: 70px;
+    background-color: #f39db6;
+    -moz-border-radius: 35px;
+    -webkit-border-radius: 35px;
+    border-radius: 35px;
+
+}
+
+.light_chess {
+    width: 70px;
+    height: 70px;
+    background-color: #f6d2d6;
+    -moz-border-radius: 35px;
+    -webkit-border-radius: 35px;
+    border-radius: 35px;
+}
+
+.block:hover {
+    background-color: #6c4263;
+}
+
+
